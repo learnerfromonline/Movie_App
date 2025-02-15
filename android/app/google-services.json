@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1017003064635",
+    "project_id": "movie-8c9a9",
+    "storage_bucket": "movie-8c9a9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017003064635:android:166e061941f367fba84b1e",
+        "android_client_info": {
+          "package_name": "com.example.coffe_card"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOLaxI3TYbGqkl0DHLxaOFKL1uC0Nhd2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
